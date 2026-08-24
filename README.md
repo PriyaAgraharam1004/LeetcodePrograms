@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |
