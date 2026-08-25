@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
