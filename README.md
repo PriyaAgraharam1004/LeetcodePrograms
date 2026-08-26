@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Two Pointers
 |  |
 | ------- |
