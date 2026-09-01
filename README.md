@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
