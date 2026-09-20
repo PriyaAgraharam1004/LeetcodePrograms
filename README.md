@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2351-first-letter-to-appear-twice) |
+| [3498-reverse-degree-of-a-string](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -264,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2109-adding-spaces-to-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3498-reverse-degree-of-a-string](https://github.com/PriyaAgraharam1004/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
